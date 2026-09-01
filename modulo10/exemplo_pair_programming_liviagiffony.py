@@ -14,7 +14,7 @@ Divisão dos Papéis & Regras (5 min)
 import requests
 
 # 1. Definir URL da API (Exemplo: Cotações Financeiras)
-url_api = "https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL"
+
 
 resposta = requests.get(url_api)
 
